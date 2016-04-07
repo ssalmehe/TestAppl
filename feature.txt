@@ -2,3 +2,4 @@ master
 feature a
 feature d
 feature b
+end
