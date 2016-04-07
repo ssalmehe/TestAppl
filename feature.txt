@@ -1,3 +1,4 @@
 master
 feature a
+feature c
 feature b
