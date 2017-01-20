@@ -6,4 +6,5 @@ feature c
 // reviewed
 feature d
 some new content
+new feature c content
 end
